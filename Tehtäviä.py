@@ -2,7 +2,7 @@ import math
 import random
 
 
-# 1. Nimi
+# 1.
 
 print("Terve,",input("Anna nimesi: "))
 
@@ -10,7 +10,7 @@ print("Terve,",input("Anna nimesi: "))
 input("")
 
 
-# 2. Ympyrän Pinta-ala
+# 2.
 
 Radius = int(input("Syötä säde: "))
 Circumference = math.pi*Radius**2
@@ -31,7 +31,7 @@ print("Suorakulmion pinta-ala on ", Area)
 
 
 
-# 4. Summa, Tulo & Keskiarvo
+# 4.
 
 print()
 
@@ -57,7 +57,7 @@ print(Tulo)
 print(Keskiarvo)
 
 
-# 5. Massalaskenta
+# 5.
 
 print()
 
@@ -77,7 +77,7 @@ print("\nGrammoina: ", int(Paino%1000))
 print("Kilogrammoina: ", int(GramToKilogram(Paino)))
 
 
-# 6. Arvonta
+# 6.
 
 print("\n Kolminumerinen Koodi:")
 
